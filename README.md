@@ -8,7 +8,7 @@
 
 ## Business Problem
 
-Plant 1 is a 30.46 MW utility-scale solar facility operating 22 inverters. The operations team needed to understand why daily generation varied significantly across the analysis period — ranging from 117,742 kWh on the worst day to 192,894 kWh on the best day, a 64% gap — and whether the underperformance was driven by weather, equipment issues, or both.
+Plant 1 is a 30.46 MW utility-scale solar facility operating 22 inverters. The operations team needed to understand why daily generation varied significantly across the analysis period (ranging from 117,742 kWh on the worst day to 192,894 kWh on the best day, a 64% gap) and whether the underperformance was driven by weather, equipment issues, or both.
 
 This analysis identifies the root causes of that variation, flags two specific underperforming inverters, quantifies thermal efficiency losses, and provides three actionable recommendations to improve plant output.
 
@@ -159,7 +159,7 @@ Project_1_Solar_Farm/
 - Dataset originates from India: benchmarks reflect Indian climate and irradiance conditions
 - No fault log available: root causes are inferred from data patterns, not confirmed by maintenance records
 - Single weather sensor serves the entire 30.46 MW array: spatial variation in irradiance is not captured
-- No financial data available: revenue impact is necessary, estimates are indicative only
+- No financial data available: revenue impact is necessary; estimates are indicative only
 
 
 ## Author
