@@ -35,7 +35,7 @@ This analysis identifies the root causes of that variation, flags two specific u
 |---|---|
 | Python 3 — pandas | Data cleaning, KPI calculation, feature engineering |
 | Python — matplotlib, seaborn | Exploratory data analysis and charts |
-| SQLite + DB Browser | SQL analysis — 15 business queries |
+| SQLite + DB Browser | SQL analysis; 15 business queries |
 | Tableau Public | Interactive 3-page dashboard |
 | VS Code + Jupyter Notebook | Development environment |
 | GitHub | Version control and portfolio hosting |
