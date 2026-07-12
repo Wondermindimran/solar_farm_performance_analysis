@@ -47,7 +47,7 @@ During inspection and cleaning, the following issues were identified and resolve
 
 1. **Mixed datetime formats**: The DATE_TIME column contained two inconsistent formats (`15-05-2020 00:00` and `1/6/2020 0:00`) mixed across 43,628 dash-format rows and 25,150 slash-format rows. Resolved using `pd.to_datetime(format='mixed', dayfirst=True)`.
 
-2. **DC_POWER unit mismatch**: DC_POWER was stored in watts while AC_POWER was in kilowatts. The raw DC_POWER maximum was 14,471 versus AC_POWER maximum of 1,410.95 kW — a 10x discrepancy impossible for a healthy inverter. Resolved by dividing DC_POWER by 1,000 across all rows before any efficiency calculation.
+2. **DC_POWER unit mismatch**: DC_POWER was stored in watts while AC_POWER was in kilowatts. The raw DC_POWER maximum was 14,471 versus AC_POWER maximum of 1,410.95 kW; a 10x discrepancy impossible for a healthy inverter. Resolved by dividing DC_POWER by 1,000 across all rows before any efficiency calculation.
 
 3. **No nulls or duplicates**: Both files had zero missing values and zero duplicate rows across all columns.
 
