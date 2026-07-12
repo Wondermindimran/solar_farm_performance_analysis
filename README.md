@@ -73,7 +73,7 @@ During inspection and cleaning, the following issues were identified and resolve
 
 2. **Two inverters are consistently underperforming.** Inverters `bvBOhCH3iADSZry` (−9.3% vs plant average) and `1BY6WEcLGh8j5v7` (−7.9% vs plant average) underperformed across all 34 days despite showing normal DC-to-AC conversion efficiency of 97.73%, pointing to a string-level issue upstream of the inverter hardware.
 
-3. **High module temperatures reduce efficiency at peak hours.** Performance Ratio drops to 89.9% when module temperature exceeds 55°C, compared to 100.1% at moderate temperatures — a 10.2 percentage point efficiency penalty during peak afternoon hours. Module temperature reached a maximum of 65.55°C across 155 readings.
+3. **High module temperatures reduce efficiency at peak hours.** Performance Ratio drops to 89.9% when module temperature exceeds 55°C, compared to 100.1% at moderate temperatures; a 10.2 percentage point efficiency penalty during peak afternoon hours. Module temperature reached a maximum of 65.55°C across 155 readings.
 
 4. **151.7 MWh of generation was lost across the 5 worst days** compared to what would have been generated at the plant's own 34-day daily average, quantifying the maximum recoverable upside from operational improvements.
 
@@ -166,4 +166,5 @@ Project_1_Solar_Farm/
 
 **Muhammad Imran**
 Data Analyst | SQL, Python, Power BI, Tableau | Interest in renewable energy & sustainability analytics
-https://www.linkedin.com/in/muhammad-imran-96318a23b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BAmVvyhLaR5O%2Fmzll%2FjNVkw%3D%3D
+
+Linkedin: https://www.linkedin.com/in/muhammad-imran-96318a23b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BAmVvyhLaR5O%2Fmzll%2FjNVkw%3D%3D
