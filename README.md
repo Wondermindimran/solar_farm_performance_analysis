@@ -2,7 +2,8 @@
 
 **A data analytics portfolio project by Muhammad Imran**
 
-[![Tableau Dashboard](https://img.shields.io/badge/Dashboard-Tableau_Public-blue)](https://public.tableau.com/views/SolarPerformanceAnalysis/ExecutiveOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau Dashboard](https://img.shields.io/badge/Dashboard-Tableau_Public-blue)](
+https://public.tableau.com/app/profile/muhammad.imran6647/viz/SolarPerformanceAnalysis/PerformanceAnalysisDashboard)
 
 
 
